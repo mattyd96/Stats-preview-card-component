@@ -10,7 +10,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     border-radius: .5rem;
-    max-width: 150ch;
+    max-width: 70rem;
     margin: 10rem auto;
 }
 
